@@ -29,9 +29,9 @@ in Command Prompt and configure the framework for this project: selecting the ty
 Below is the video recording of the automation tests execution, made for automated different test cases on Saucedemo.com website.
 
 # Videos
--  [PurchaseProducts](https://drive.google.com/file/d/1DqHF7FPrk1MmyQrtqD9GjSFmNMEfiFdm/view?usp=drive_link)
--  [Login](https://drive.google.com/file/d/1CfQDZL4GJY4NpjbKyxvsFkojv1rn5zqY/view?usp=drive_link)
--  [SortsProducts](https://drive.google.com/file/d/1-Jw6cXEeaqEPttY5vO9eAkwPI-YHMhmO/view?usp=drive_link)
+-  [PurchaseProducts](https://drive.google.com/file/d/1106c2OacfjaDlKl8TvrfBvP8RoKmXOT_/view?usp=drive_link)
+-  [Login](https://drive.google.com/file/d/1MpeGA_qdH_tkf1zslNzFW817fFmC4jda/view?usp=drive_link)
+-  [SortsProducts](https://drive.google.com/file/d/18-_n3bXtcewAQ3p40IqOkUB1bcdL5lKt/view?usp=drive_link)
 
 # Report
 - [HTML FILE](https://drive.google.com/file/d/1YClYQfFbF14YyaROzOywFx6tHRkS3Cth/view?usp=drive_link)
